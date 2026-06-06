@@ -78,6 +78,20 @@ sfml-system-3.dll
 * GPS Routing Systems
 * Network Routing
 
+## Project Screenshots
+
+### Graphical User Interface (GUI)
+
+![GUI](screenshots/GUI.png)
+
+### Backtracking Algorithm Output
+
+![Backtracking](screenshots/Backtarcking.png)
+
+### Dijkstra's Algorithm Output
+
+![Dijkstra](screenshots/Dijikshtras.png)
+
 ## Author
 
 Harshvardhan Vanmore
